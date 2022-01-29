@@ -1,4 +1,4 @@
-# Garage_Manager_.NET
+# Garage_Manager_.NET 🚙 🏍️ 🚚
 .NET OOP development of a garage manager console application.  
 
 Currently supports Cars, Motorcycles (both fuel and electric) and Trucks.  
