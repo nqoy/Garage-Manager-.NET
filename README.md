@@ -3,7 +3,7 @@
 
 Currently supports Cars, Motorcycles (both fuel and electric) and Trucks.  
 Each vhicle is wrapping common & unique objects and properties according to its type.  
-Actions avilable to the user:  🚗 🏍️ 🚚
+Actions avilable to the user :  🚗 🏍️ 🚚
 1. Adding a vhicle.
 2. Changing a vhicle's status.
 3. Checking all of the vhicles licence numbers.
