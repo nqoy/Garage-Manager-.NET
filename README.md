@@ -9,3 +9,5 @@ Actions avilable to the user :  🚗 🏍️ 🚚
 3. Checking all of the vehicles licence numbers.
 4. Refueling a vehicle.
 5. Inflating a vehicle's wheels.
+
+![Garage Manager](https://github.com/nqoy/Garage-Manager-.NET/blob/main/%E2%80%8F%E2%80%8FGarage_Class_Diagram.JPG)
