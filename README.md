@@ -14,5 +14,5 @@ Actions avilable to the user :  🚗 🏍️ 🚚
 ## Class Diagram:
 ![Garage Manager](https://github.com/nqoy/Garage-Manager-.NET/blob/main/%E2%80%8F%E2%80%8FGarage_Class_Diagram.JPG)
 
-## Console App Menu
+## Console App Menu:
 ![Garage Menu](https://github.com/nqoy/Garage-Manager-.NET/blob/main/GarageMenu.png)
